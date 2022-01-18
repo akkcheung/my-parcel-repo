@@ -1,0 +1,25 @@
+{
+  "name": "my-parcel-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akkcheung/my-parcel-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akkcheung/my-parcel-repo/issues"
+  },
+  "homepage": "https://github.com/akkcheung/my-parcel-repo#readme",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}

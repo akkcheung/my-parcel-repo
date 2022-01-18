@@ -6,6 +6,10 @@ git branch -M main
 
 git pull origin main
 
+git branch -M main
+
+git push -u origin main
+
 https://parceljs.org/getting-started/webapp/
 
 https://stackoverflow.com/questions/59226489/parcel-does-not-reload-changes-to-html-page
